@@ -16,3 +16,8 @@ h1 {
   top: 105px;
   text-align: center;
 }
+#reset-btn {
+  color: white;
+  background-color: steelblue;
+  font-size: large;
+}
